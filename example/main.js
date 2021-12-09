@@ -1,6 +1,5 @@
 const PissJS = require('pissjs');
 
-
 PissJS.Piss()
 
 console.log(PissJS.HasPiss("piss"))
