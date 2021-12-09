@@ -1,6 +1,6 @@
 {
   "name": "pissjs",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Has piss function which returns piss",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dev-John06/pissjs"},
+    "url": "https://github.com/Dev-John06/pissjs"
+  },
   "readme": "README.md"
 }
