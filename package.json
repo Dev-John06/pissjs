@@ -17,5 +17,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dev-John06/pissjs"}
+    "url": "https://github.com/Dev-John06/pissjs"},
+  "readme": "README.md"
 }
