@@ -1,6 +1,6 @@
 {
   "name": "pissjs",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Has piss function which returns piss",
   "main": "index.js",
   "scripts": {
