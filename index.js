@@ -48,4 +48,4 @@ function ColourPiss(color) {
     }
 }
 
-module.exports = { Piss, HasPiss }
+module.exports = { Piss, HasPiss, ColourPiss }
